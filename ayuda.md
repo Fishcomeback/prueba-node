@@ -1,2 +1,8 @@
 let aprendiendo = a
-let aprendiending = b
+let learning = b
+
+
+function (español, ingles) {
+    let espanglish = a * b
+    console.log(espanglis)
+}
